@@ -1,2 +1,2 @@
-# hanateam_python_study
-하나팀이다 하나팀
+# HanaTeam_Python_Study
+하나팀 파이썬 스터디입니다
